@@ -2,7 +2,7 @@ export default function Test(){
 
 function miniMaxSum(arr) {
     // Write your code here
-    arr.sort()
+    arr.sort()//Verificarrrrrrr pois pra numero precisa ter uma funcao a - b
     
     const miniMax = {
         max: 0,
